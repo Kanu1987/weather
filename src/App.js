@@ -6,8 +6,8 @@ import {Container,Row} from 'reactstrap';
 let apiKey = '2d79127a98104effaad222921180801'
 let url ='http://api.apixu.com/v1/forecast.json?key='
 let days= 3
-let a = 102;
-
+let a = 10456;
+let b = 10456;
 
 class App extends Component {
 
